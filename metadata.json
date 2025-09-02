@@ -1,0 +1,5 @@
+{
+  "name": "Daily English Learner",
+  "description": "An application that provides daily English words and sentences with Hindi translations to help users learn basic English, powered by Gemini.",
+  "requestFramePermissions": []
+}
